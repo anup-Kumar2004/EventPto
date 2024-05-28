@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616345995443",
+    "project_id": "eventpro-737cd",
+    "storage_bucket": "eventpro-737cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616345995443:android:8c5e503dc32005536988c6",
+        "android_client_info": {
+          "package_name": "com.example.splashactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvBjhBxqC34II89pH-iI3qo7U67v6vNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
